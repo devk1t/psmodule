@@ -1,2 +1,2 @@
-# psmodule
-A Powershell module
+# Powershell Module
+This is a Powershell Module. 
